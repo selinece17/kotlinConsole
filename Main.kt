@@ -1,3 +1,8 @@
+/**
+A fully functional console-based Hangman game written in Kotlin.
+This project demonstrates file handling, input validation, game loops, collections, and persistent high score tracking.
+Created Feb 16,2026
+*/
 import java.io.File
 import kotlin.random.Random
 
