@@ -1,0 +1,8 @@
+selin,60
+jack,10
+ece,20
+g,0
+j,100
+o,0
+f,0
+daisy,0
